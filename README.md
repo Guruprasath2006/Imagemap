@@ -34,7 +34,7 @@ Execute the programs and publish them.
             <font color="black"><b>UTHANGARAI</b></font>
         </h1>
         <h3 align="center">
-            <font color="black"><b>Shri Raama Krishanan J(212224220100)</b></font>
+            <font color="black"><b>Guru Prasath K M (212224230079)</b></font>
         </h3>
         <center>
             <img src="map.png" usemap="#image-map">
